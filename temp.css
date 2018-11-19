@@ -88,11 +88,48 @@ padding: 0px;
 .bottom{
 	clear: both;
 	width: 80%;
-	height: 240px;
+	height: 280px;
 	border: 1px solid;
  		margin:auto;
 }
 .bottomleft{
-	
+	float: left;
+	width: 40%;
+	padding: 36px;
 }
 
+.anc1{
+	text-align: right;
+}
+.bottomimg{
+	width: 40%;
+	height: 260px;
+	background-color: black;
+	float: right;
+}
+.footer{
+	overflow: hidden;
+	border: 1px solid;
+	width: 80%;
+	margin: auto;
+}
+.footer1{
+	width: 25%;
+	float: left;
+	 width: 23%;
+    float: left;
+    padding: 10px;
+}
+.order li a{
+	text-decoration: none;
+    color: orange;
+
+}
+.order li:first-child{
+	border-style: none !important;
+}
+.order li{
+	border-bottom: 1px solid;
+	padding :5px 0px;
+	list-style-type: none;
+}
